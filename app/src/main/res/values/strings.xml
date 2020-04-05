@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hello Files</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_info">Info</string>
+    <string name="action_export">Save List on file</string>
+    <string name="yes">Yes</string>
+    <string name="cancel">Cancel</string>
+    <string name="i_am_a_fragment">Hello I am a Fragment !</string>
+    <string name="action_create_document">Save as External Document</string>
+    <string name="open_log_document">Open Log Document/File</string>
+
+</resources>

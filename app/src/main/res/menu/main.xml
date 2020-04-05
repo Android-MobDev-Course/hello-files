@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.mobdev.hellomaterial.MainActivity" >
+
+    <item
+        android:id="@+id/action_create_document"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_action_file_file_download"
+        android:title="@string/action_create_document"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/action_open_document"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_action_file_upload"
+        android:title="@string/open_log_document"
+        app:showAsAction="ifRoom"/>
+
+</menu>
